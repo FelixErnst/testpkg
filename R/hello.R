@@ -12,7 +12,7 @@
 #   Install Package:           'Cmd + Shift + B'
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
-#' @import GenomicFeatures
+#' @import TxDb.Hsapiens.UCSC.hg19.knownGene
 #' @export
 hello <- function() {
   print("Hello, world!")
