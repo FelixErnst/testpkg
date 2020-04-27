@@ -10,5 +10,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
-    TxDb.Hsapiens.UCSC.hg38.knownGene
+    GenomicFeatures
 RoxygenNote: 7.1.0
